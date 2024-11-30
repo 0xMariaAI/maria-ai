@@ -1,5 +1,7 @@
 # MARIA: Redefining Mars Exploration AI
 
+# X: @_maria_ai
+
 ![start](https://pbs.twimg.com/media/GdpG6LNXEAAFEWM?format=jpg&name=medium)
 
 MARIA is the world’s first video AI agent specifically designed for Mars exploration, meticulously developed in Japan. Leveraging cutting-edge artificial intelligence technologies, MARIA redefines the way we understand and interact with the Martian environment by combining advanced computer vision, adaptive neural networks, and autonomous decision-making.
